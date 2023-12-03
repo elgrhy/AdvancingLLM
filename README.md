@@ -124,7 +124,7 @@ The Autopilot System's transfer learning capability allows for seamless integrat
 
 The proposed architecture is poised to elevate the performance of LLMs across applications such as natural language generation, sentiment analysis, and customer service chatbots. Task-specific models can dynamically access the Mental Process, enabling them to excel in diverse domains with minimal training.
 
-# init**:**
+# **init:**
 
 This innovative framework signifies a paradigm shift in LLM architecture, emphasizing efficiency, adaptability, and reduced biases. By combining transfer learning with a modular Mental Process and an efficient self-taking mechanism, this approach aims to empower language models with a depth of understanding, positioning them as versatile and intelligent tools for the challenges of a data-rich future.
 
